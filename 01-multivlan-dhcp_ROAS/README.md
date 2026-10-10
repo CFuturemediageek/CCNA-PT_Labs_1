@@ -1,4 +1,9 @@
-Cisco Packet Tracer Lab: VLANs, Router-on-a-Stick, DHCP Relay, and DHCP Snooping
+Cisco Packet Tracer Lab: 
+
+VLANs, Router-on-a-Stick, DHCP Relay, and DHCP Snooping
+
+
+
 Project Overview
 I built a multi-VLAN network in Cisco Packet Tracer to practice network segmentation, inter-VLAN routing, centralized DHCP, and Layer 2 security.
 The topology uses a Cisco 3560 multilayer switch, Cisco 2960 access switches, a router configured for Router-on-a-Stick, and a centralized server providing DHCP services. I separated endpoints into VLAN 10 (DEVOPS), VLAN 20 (FINANCE), and VLAN 30 (SERVERS).
